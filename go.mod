@@ -12,7 +12,7 @@ require (
 	github.com/IBM/go-sdk-core/v5 v5.8.0
 	github.com/IBM/networking-go-sdk v0.32.0
 	github.com/StackExchange/dnscontrol v0.2.8
-	github.com/akamai/AkamaiOPEN-edgegrid-golang v1.1.1
+	github.com/akamai/AkamaiOPEN-edgegrid-golang v1.2.1
 	github.com/alecthomas/assert v0.0.0-20170929043011-405dbfeb8e38 // indirect
 	github.com/alecthomas/colour v0.1.0 // indirect
 	github.com/alecthomas/kingpin v2.2.5+incompatible
